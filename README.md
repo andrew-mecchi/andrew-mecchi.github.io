@@ -1,8 +1,8 @@
 # Data Analyst
 
 ### Education
-M.S. Data Analytics - Western Govenors University
-B.S. Biology - Villanova University
+- M.S. Data Analytics - Western Govenors University
+- B.S. Biology - Villanova University
    
 ### Projects
 Add projects here
