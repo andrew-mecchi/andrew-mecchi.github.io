@@ -6,6 +6,7 @@
    
 ### Projects
 Add projects here
+[Term Deposits - Capstone Project](https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb)
 
 ### Work Experience
 Add jobs here
