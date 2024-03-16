@@ -10,3 +10,4 @@ Add projects here
 
 ### Work Experience
 Add jobs here
+[Resume - CV](https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/assets/Mecchi_Resume.pdf)
