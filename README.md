@@ -1,4 +1,4 @@
-# Data Analyst - take 11
+# Data Analyst
 
 ### Education
 - M.S. Data Analytics - Western Govenors University
