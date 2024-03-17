@@ -1,6 +1,6 @@
 # Data Analyst
 ## Shortcuts
-- [Work History](Work-Experience)
+- [Work Experience](Work-Experience)
 
 ### Education
 - M.S. Data Analytics - Western Govenors University
