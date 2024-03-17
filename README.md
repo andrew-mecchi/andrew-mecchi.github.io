@@ -23,10 +23,10 @@ List jobs here
 
 ## **WGU Coursework**
 - **Capstone Project:**
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb" target="_blank">Predicting Term Deposit Success</a> <br>
+  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb" target="_blank">Predicting Term Deposit Success from Imbalanced Data</a> <br>
   <br>
 - **D213 Advanced Data Analytics:**
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Time_Series_Analysis_D213_Task_1.ipynb" target="_blank">Sentiment Analysis - NLP</a>
+  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Sentiment_Analysis_D213_Task_2.ipynb" target="_blank">Sentiment Analysis - NLP</a>
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Time_Series_Analysis_D213_Task_1.ipynb" target="_blank">Time Series Analysis</a> <br>
   <br>
 - **D212 Data Mining II:**
