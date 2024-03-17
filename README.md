@@ -32,6 +32,12 @@ List jobs here
 - **D212 Data Mining II:**
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Market_Basket_Analysis_D212_Data_Minining_II_Task_3.ipynb" target="_blank">Market Basket Analysis</a>
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/PCA_D212_Data_Mining_II_Task_2.ipynb" target="_blank">Principal Component Analysis</a>
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/K_Means_Clustering_D212_Data_Mining_II_Task_1.ipynb" target="_blank">K-Means Clustering</a>
-
+  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/K_Means_Clustering_D212_Data_Mining_II_Task_1.ipynb" target="_blank">K-Means Clustering</a> <br>
+  <br>
+  - **D211 Advanced Data Acquisition**
+    - sql and tableau connected through sql server <br>
+  <br>
+- **D210 Representation and Reporting**
+  - <a href= "https://public.tableau.com/app/profile/andrew.mecchi/viz/WGUandKaggleTelecom_CustomerChurn_Mecchi_WGU_D210/Final" target="_blank">Tableau Public Dashboard</a> <br> 
+    
   
