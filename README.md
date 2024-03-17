@@ -1,13 +1,13 @@
-# Data Analysis Portfolio
+# **Data Analysis Portfolio**
 
 
-### Education
+### **Education**
 **M.S. Data Analytics**  -  Western Govenors University  -  February 2024
 <br> 
 **B.S. Biology, Minor Business**  -  Villanova University  -  May 2006
 
 
-### Recent Projects
+### **Recent Projects**
 **Note placeholder for now until all files amended in colab**
 ** Coding options markdown vs. new tab in htmml**
 - Markdown Method: [Term Deposits - Capstone Project](https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb 'Predicting Term Deposit Success')
@@ -16,12 +16,12 @@
 
 
 
-### Work Experience
+### **Work Experience**
 <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/assets/Mecchi_Resume.pdf" target="_blank">Resumé/CV</a> <br>
 List jobs here 
 
 
-### WGU Coursework
+### **WGU Coursework**
 - **Capstone Project:**
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb" target="_blank">Predicting Term Deposit Success</a> <br>
   <br>
