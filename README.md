@@ -34,7 +34,7 @@ List jobs here
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/PCA_D212_Data_Mining_II_Task_2.ipynb" target="_blank">Principal Component Analysis</a>
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/K_Means_Clustering_D212_Data_Mining_II_Task_1.ipynb" target="_blank">K-Means Clustering</a> <br>
   <br>
-  - **D211 Advanced Data Acquisition**
+- **D211 Advanced Data Acquisition**
     - sql and tableau connected through sql server <br>
   <br>
 - **D210 Representation and Reporting**
