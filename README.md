@@ -20,3 +20,8 @@ Add jobs here
 
 
 ### WGU Coursework
+
+- Capstone Project: <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb" target="_blank">Predicting Term Deposit Success</a>
+- D213: Advanced Data Analytics < a href="[URL](https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Time_Series_Analysis_D213_Task_1.ipynb)https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Time_Series_Analysis_D213_Task_1.ipynb" target="_blank">Time Series Analysis</a>
+
+#< a href="URL" target="_blank">Link Text</a>
