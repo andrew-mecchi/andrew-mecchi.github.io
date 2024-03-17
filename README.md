@@ -8,8 +8,7 @@
 
 
 ## **Recent Projects**
-**Note placeholder until new projects moved to colab**
-**Below are the coding options of markdown vs. opening new tab in html**
+**Note placeholder until new projects moved to colab & below are the coding options of markdown vs. opening new tab in html**
 - Markdown Method: [Term Deposits - Capstone Project](https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb 'Predicting Term Deposit Success')
 
 - New tab --> HTML Method: <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb" target="_blank">Predicting Term Deposit Success</a>
