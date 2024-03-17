@@ -10,7 +10,7 @@
 - Markdown: [Term Deposits - Capstone Project](https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb 'Predicting Term Deposit Success')
 
 - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb" target="_blank">Predicting Term Deposit Success</a>
-- <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
 
 
 ### Work Experience
