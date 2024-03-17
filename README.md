@@ -2,7 +2,7 @@
 
 
 ### Education
-**M.S. Data Analytics**  -  Western Govenors University  -  February 2024
+**M.S. Data Analytics**  -  <mark>Western Govenors University</mark>  -  February 2024
 <br> 
 **B.S. Biology, Minor Business**  -  Villanova University  -  May 2006
 
