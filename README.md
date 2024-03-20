@@ -36,9 +36,11 @@ List jobs here
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/K_Means_Clustering_D212_Data_Mining_II_Task_1.ipynb" target="_blank">K-Means Clustering</a> <br>
   <br>
 - **D211 Advanced Data Acquisition**
-    - sql and tableau connected through sql server <br>
+    - sql and tableau connected through sql server
+    - consider new repo for sql project(s)<br>
   <br>
 - **D210 Representation and Reporting**
+- simple draft of tabelau public
   - <a href= "https://public.tableau.com/app/profile/andrew.mecchi/viz/WGUandKaggleTelecom_CustomerChurn_Mecchi_WGU_D210/Final" target="_blank">Tableau Public Dashboard</a> <br> 
     
   
