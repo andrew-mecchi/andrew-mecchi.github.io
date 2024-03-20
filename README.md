@@ -9,6 +9,7 @@
 
 ## **Recent Projects**
 **Note placeholder until new projects moved to colab & below are the coding options of markdown vs. opening new tab in html**
+<br>
 **Select option to open in notebooks in Colab for internal links to work** 
 - Markdown Method: [Term Deposits - Capstone Project](https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb 'Predicting Term Deposit Success')
 
