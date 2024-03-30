@@ -31,13 +31,13 @@ List jobs here
   <br>
   
 - **D213 Advanced Data Analytics:**
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Sentiment_Analysis_D213_Task_2.ipynb" target="_blank">Sentiment Analysis - NLP</a>
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Time_Series_Analysis_D213_Task_1.ipynb" target="_blank">Time Series Analysis</a> <br>
+  - <a href= "https://colab.research.google.com/drive/1XF6QKzRe6BGZzzkg-pTEJk_5plC59OOR?ouid=115993916992074104927&usp=drive_link" target="_blank">Sentiment Analysis - NLP</a>
+  - <a href= "https://colab.research.google.com/drive/1x2fjXpHHqJiG4yq15fSrFvEaU4dYE95D?usp=drive_link" target="_blank">Time Series Analysis</a> <br>
   <br>
 - **D212 Data Mining II:**
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Market_Basket_Analysis_D212_Data_Minining_II_Task_3.ipynb" target="_blank">Market Basket Analysis</a>
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/PCA_D212_Data_Mining_II_Task_2.ipynb" target="_blank">Principal Component Analysis</a>
-  - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/K_Means_Clustering_D212_Data_Mining_II_Task_1.ipynb" target="_blank">K-Means Clustering</a> <br>
+  - <a href= "https://colab.research.google.com/drive/1M4qyy1jKavQco9ceuc0nOOPDNXbcqsV3?ouid=115993916992074104927&usp=drive_link" target="_blank">Market Basket Analysis</a>
+  - <a href= "https://colab.research.google.com/drive/1xx3EPUpzaU5mhcV3bXPrDpp9I10SbqNc?ouid=115993916992074104927&usp=drive_link" target="_blank">Principal Component Analysis</a>
+  - <a href= "https://colab.research.google.com/drive/14cnMRfeKDN5GegRwFukI1-L1hmt4n12A?ouid=115993916992074104927&usp=drive_link" target="_blank">K-Means Clustering</a> <br>
   <br>
 - **D211 Advanced Data Acquisition**
     - sql and tableau connected through sql server
