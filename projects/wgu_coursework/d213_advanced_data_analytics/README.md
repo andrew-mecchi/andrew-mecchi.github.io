@@ -1,6 +1,14 @@
 # **D213 - Advanced Data Analytics**
 
 ## **Task 1: Time Series Analysis**
+- Analysis Techniques Used
+  - ARIMA
+    - Model orders defined using autocorrelation (ACF) and partial autocorrelation (PACF)
+  - Revenue forecast plot based on ARIMA model
+  - Calculate RMSE of model
+  - Dickey-Fuller test for stationarity wtih seasonality, decomposition, and spectral density plots
+    
+
 **Summary:** The goal of this analysis is to create an ARIMA Time Series Analysis and project future revenues based on previous trends.
 <br><br>
 **Research Question:** Through the use of a time series analysis of the previous two-years of data, can daily revenues for the next two quarters (Q1 & Q2) be accurately forecasted?
