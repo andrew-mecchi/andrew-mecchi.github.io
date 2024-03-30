@@ -27,6 +27,7 @@ List jobs here
 ## **WGU Coursework**
 - **Capstone Project:**
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Python_Mecchi_CAPSTONE_Project.ipynb" target="_blank">Predicting Term Deposit Success from Imbalanced Data</a> <br>
+  - ### open in colab <a href="https://colab.research.google.com/drive/1i_Z9vNv-7jDZ4X-FLczYpKPUxB3VToj8?usp=drive_link" target="_blank">direct to colab</a>
   <br>
 - **D213 Advanced Data Analytics:**
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/Sentiment_Analysis_D213_Task_2.ipynb" target="_blank">Sentiment Analysis - NLP</a>
