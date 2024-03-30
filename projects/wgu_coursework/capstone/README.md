@@ -12,4 +12,4 @@ Null hypothesis (H<sub>0</sub>): A predictive model cannot classify customer dep
 
 Alternate Hypothesis (H<sub>1</sub>):  A predictive model can classify successful deposits from the given data with an F1 statistic that exceeds 0.3 or 30%.
 
-## Results
+
