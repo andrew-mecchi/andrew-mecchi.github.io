@@ -19,7 +19,7 @@
 
 
 ## **Work Experience**
-<a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/assets/Mecchi_Resume.pdf" target="_blank">Resumé/CV</a> <br>
+<a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/assets/GitHub_Resume.pdf" target="_blank">Resumé/CV</a> <br>
 <br>
 List jobs here 
 
