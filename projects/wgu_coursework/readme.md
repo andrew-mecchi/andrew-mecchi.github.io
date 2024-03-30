@@ -1,4 +1,3 @@
-# Here is the main folder where WGU projects should be stored
 # WGU Coursework breakdown by class and project type
 
 ## Capstone Project
