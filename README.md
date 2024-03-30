@@ -33,7 +33,7 @@ List jobs here
 - **D213 Advanced Data Analytics:**
   - <a href= "https://colab.research.google.com/drive/1XF6QKzRe6BGZzzkg-pTEJk_5plC59OOR?ouid=115993916992074104927&usp=drive_link" target="_blank">Sentiment Analysis - NLP</a>
   - <a href= "https://colab.research.google.com/drive/1x2fjXpHHqJiG4yq15fSrFvEaU4dYE95D?usp=drive_link" target="_blank">Time Series Analysis</a> <br>
-     - <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/41c9c4a456fbefc98c6b99810eac1aae5f3338ce/projects/wgu_coursework/d213_advanced_data_analytics" target="_blank">D213 Github Folder</a>
+     - <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/3488b2a9dbb48c05eae1c7f13ee73ec38a60f2c8/projects/wgu_coursework/d213_advanced_data_analytics" target="_blank">D213 Github Folder</a>
   <br>
 - **D212 Data Mining II:**
   - <a href= "https://colab.research.google.com/drive/1M4qyy1jKavQco9ceuc0nOOPDNXbcqsV3?ouid=115993916992074104927&usp=drive_link" target="_blank">Market Basket Analysis</a>
