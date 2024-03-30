@@ -12,7 +12,7 @@
 
 
 ## **WGU Coursework**
-- **Capstone Project** --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/d06a806e07d42e32189b1efe9b30951a554b32bb/projects/wgu_coursework/capstone" target="_blank"><sub><sup>Capstone GitHub</sub></sup></a>
+- **Capstone Project** --- <sub><sup><a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/d06a806e07d42e32189b1efe9b30951a554b32bb/projects/wgu_coursework/capstone" target="_blank">Capstone GitHub</a></sub></sup>
     - <a href="https://colab.research.google.com/drive/1S2mbufQq9VPy0mIzomYrLXCmg9Pgu9L1?usp=drive_link" target="_blank">Predicting Term Deposit Success from Imbalanced Data</a>
       
 - **D213 Advanced Data Analytics**  --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/72d956494adf373c50830e780430287afa48861d/projects/wgu_coursework/d213_advanced_data_analytics" target="_blank"><sub><sup>D213 Github</sub></sup></a>
