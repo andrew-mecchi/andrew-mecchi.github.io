@@ -27,7 +27,7 @@ List jobs here
 ## **WGU Coursework**
 - **Capstone Project:**
     - <a href="https://colab.research.google.com/drive/1S2mbufQq9VPy0mIzomYrLXCmg9Pgu9L1?usp=drive_link" target="_blank">Predicting Term Deposit Success from Imbalanced Data</a>
-    - <a href=" github folder location"" target="_blank">GitHub</a>
+    - <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/0b2d5060bbbd7735b40d711e4afa493243893276/projects/wgu_coursework/capstone" target="_blank">GitHub</a>
   <br>
   
 - **D213 Advanced Data Analytics:**
