@@ -12,4 +12,7 @@ Alternate Hypothesis (H<sub>1</sub>):  A predictive model can classify successfu
   - Logistic Regression Classifier
   - Random Forest Classifier
   - Synthetic Minority Over-Sampling Technique
-
+  - Model Evaluation
+    - Calculate classification reports
+    - Identify feature importances
+    - Plot feature importances
