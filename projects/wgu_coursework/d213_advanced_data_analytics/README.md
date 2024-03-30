@@ -1,6 +1,5 @@
-# WGU Coursework Summary
+# D213 - Advanced Data Analytics
 
-## D213
 ### Task 1: Time Series Analysis
 
 ### Task 2: Sentiment Analysis
