@@ -16,7 +16,6 @@
     - <a href="https://colab.research.google.com/drive/1S2mbufQq9VPy0mIzomYrLXCmg9Pgu9L1?usp=drive_link" target="_blank">Predicting Term Deposit Success from Imbalanced Data</a>
       
 - **D213 Advanced Data Analytics**  --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/72d956494adf373c50830e780430287afa48861d/projects/wgu_coursework/d213_advanced_data_analytics" target="_blank">D213 Github</a>
-
   - <a href= "https://colab.research.google.com/drive/1XF6QKzRe6BGZzzkg-pTEJk_5plC59OOR?ouid=115993916992074104927&usp=drive_link" target="_blank">Sentiment Analysis - NLP</a>
   - <a href= "https://colab.research.google.com/drive/1x2fjXpHHqJiG4yq15fSrFvEaU4dYE95D?usp=drive_link" target="_blank">Time Series Analysis</a> <br>
             
