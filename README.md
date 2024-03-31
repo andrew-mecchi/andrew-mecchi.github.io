@@ -24,7 +24,3 @@
   - <a href= "https://colab.research.google.com/drive/1xx3EPUpzaU5mhcV3bXPrDpp9I10SbqNc?ouid=115993916992074104927&usp=drive_link" target="_blank">Principal Component Analysis</a>
   - <a href= "https://colab.research.google.com/drive/14cnMRfeKDN5GegRwFukI1-L1hmt4n12A?ouid=115993916992074104927&usp=drive_link" target="_blank">K-Means Clustering</a> <br>
 
-
-## **Work Experience**
-<br>
-List jobs here 
