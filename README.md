@@ -20,7 +20,6 @@
   - <a href= "https://colab.research.google.com/drive/1x2fjXpHHqJiG4yq15fSrFvEaU4dYE95D?usp=drive_link" target="_blank">Time Series Analysis</a> <br>
             
 - **D212 Data Mining II**  --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/4027c9bcad5ed06838c4e8e31ab23ba274a87eb0/projects/wgu_coursework/d212_data_mining_II" target="_blank">D212 Github</a>
-
   - <a href= "https://colab.research.google.com/drive/1M4qyy1jKavQco9ceuc0nOOPDNXbcqsV3?ouid=115993916992074104927&usp=drive_link" target="_blank">Market Basket Analysis</a>
   - <a href= "https://colab.research.google.com/drive/1xx3EPUpzaU5mhcV3bXPrDpp9I10SbqNc?ouid=115993916992074104927&usp=drive_link" target="_blank">Principal Component Analysis</a>
   - <a href= "https://colab.research.google.com/drive/14cnMRfeKDN5GegRwFukI1-L1hmt4n12A?ouid=115993916992074104927&usp=drive_link" target="_blank">K-Means Clustering</a> <br>
