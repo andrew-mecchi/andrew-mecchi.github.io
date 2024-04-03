@@ -1,0 +1,187 @@
+--- Create Table for Kaggle Data ---
+CREATE TABLE public.kaggle (
+    customerID character varying NOT NULL,
+    gender text,
+    SeniorCitizens text,
+    Partner text,
+    Dependents text,
+    tenure numeric,
+    PhoneService text,
+    MultipleLines text,
+    InternetService text,
+    OnlineSecurity text,
+    OnlineBackup text,
+    DeviceProtection text,
+    TechSupport text,
+    StreamingTV text,
+    StreamingMovies text,
+    Contract text,
+    PaperlessBilling text,
+    PaymentMethod text,
+    MonthlyCharges numeric,
+    TotalCharges character varying,
+    Churn text,
+    PRIMARY KEY (customerID)
+);
+
+--- Give ownership to public schema ---
+ALTER TABLE public.kaggle
+    OWNER to postgres;
+	
+
+
+--- CREATE temporary table from Kaggle set with features of interest ---
+CREATE TABLE kag AS (
+SELECT customerID, Gender, Dependents, Contract, MonthlyCharges, tenure, Churn
+FROM kaggle);
+
+--- Give ownership to public schema ---
+ALTER TABLE public.kag
+    OWNER to postgres;
+
+--- Create temporary table with WGU features for business analysis ---
+CREATE TABLE wgu AS (
+SELECT c.customer_id, c.gender, c.children, contract.duration, c.monthly_charge, c.tenure, c.churn
+FROM public.customer c
+INNER JOIN contract ON
+	c.contract_id = contract.contract_id
+	);
+
+--- Give ownership to public schema ---
+ALTER TABLE public.wgu
+    OWNER to postgres;
+
+--- Prepare wgu table for union of features with kag table ---
+--- features and data types must match for union ---
+
+--- match customer feature title and dtype ---
+ALTER TABLE wgu
+ALTER customer_id TYPE VARCHAR;
+
+--- explore values of gender ---
+SELECT gender, count(*)
+FROM wgu
+GROUP BY gender;
+
+--- change "prefer not to answer" to non-binary ---
+UPDATE wgu
+SET gender = REPLACE(gender, 'Prefer not to answer', 'Non-Binary');
+
+--- Reduce numeric children to match kaggle, yes or no to dependent ---
+--- Data dictionary defines children as those living at home/dependents —
+ALTER TABLE wgu
+ALTER children TYPE text USING
+CASE WHEN children >= '1' THEN 'Yes'
+ELSE 'No' 
+END;
+
+--- Rename column to match kaggle dependents column ---
+ALTER TABLE wgu
+RENAME COLUMN children TO dependents;
+
+--- Amend duration column to reflect contracts of kaggle ---
+ALTER TABLE wgu
+ALTER duration TYPE text USING
+CASE WHEN duration = 'Month-to-month' THEN 'Month-to-Month'
+WHEN duration = 'One year' THEN 'One Year'
+ELSE 'Two Years' 
+END;
+
+--- rename duration column to match kaggle contract ---
+ALTER TABLE wgu
+RENAME COLUMN duration TO contract;
+
+--- monthly charges, round numeric values to reflect two decimal place ---
+UPDATE wgu
+SET monthly_charge = ROUND(monthly_charge, 2);
+
+--- match name for charges between tables ---
+ALTER TABLE wgu
+RENAME COLUMN monthly_charge TO monthly_charges;
+
+
+--- tenure, round numeric values to reflect closest month, round to 0 decimals ---
+UPDATE wgu
+SET tenure = ROUND(tenure, 0);
+
+
+--- add identifiable source columns to each set ---
+ALTER TABLE wgu
+ADD COLUMN provider text;
+
+--- populate provider column for wgu ---
+UPDATE wgu
+SET provider = 'WGU Telecom';
+
+--- confirm features and dtypes of wgu table prepared for union --- 
+select * from wgu;
+
+
+--- prepare kag for union ---
+--- match customer columns to match ---
+ALTER TABLE kag
+RENAME COLUMN customerID TO customer_id;
+
+
+--- amend values for contracts to match wgu ---
+ALTER TABLE kag
+ALTER contract TYPE text USING
+CASE WHEN contract = 'Month-to-month' THEN 'Month-to-Month'
+WHEN contract = 'One year' THEN 'One Year'
+ELSE 'Two Years' END;
+
+
+--- monthly charges, round numeric values to reflect two decimal place ---
+UPDATE kag
+SET MonthlyCharges = ROUND(MonthlyCharges, 2);
+
+--- rename column to match wgu table ---
+ALTER TABLE kag
+RENAME COLUMN MonthlyCharges TO monthly_charges;
+
+--- tenure, round numeric values to reflect no decimal place ---
+UPDATE kag
+SET tenure = ROUND(tenure, 0);
+
+--- add identifiable source columns to kag set ---
+ALTER TABLE kag
+ADD COLUMN provider text;
+
+--- populate provider column for wgu ---
+UPDATE kag
+SET provider = 'Kaggle Telecom';
+
+--- confirm matching columns and data types ---
+select * from wgu;
+
+select * from kag;
+
+--- tables prepared for union ---
+--- Create table Tableau for union to combine two data sets ---
+CREATE TABLE tableau AS (
+SELECT *
+FROM wgu
+UNION ALL
+SELECT *
+FROM kag);
+
+--- Give ownership to public schema ---
+ALTER TABLE public.tableau
+    OWNER to postgres;
+	
+
+
+
+--- confirm customer counts match ---
+SELECT provider, COUNT(*)
+FROM tableau
+GROUP BY provider;
+
+
+--- Drop temporary tables from database ---
+DROP TABLE IF EXISTS wgu;
+DROP TABLE IF EXISTS kag;
+
+
+--- confirm union of tables ---
+select * from tableau;
