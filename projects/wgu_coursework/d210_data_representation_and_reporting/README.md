@@ -7,3 +7,6 @@ The goal of this project was to compare WGU Telecom with an external dataset fou
 
 ### **Research Question** 
 What insights can be gained when comparing WGU Telecom and Kaggle Telecom customer churn rates between DSL and Fiber Optic services?
+
+### **Dashboard**
+<a href= "https://public.tableau.com/app/profile/andrew.mecchi/viz/WGUandKaggleTelecom_CustomerChurn_Mecchi_WGU_D210/Final" target="_blank">Tableau Dashboard</a>
