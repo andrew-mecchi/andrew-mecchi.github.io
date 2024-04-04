@@ -30,5 +30,8 @@
        
 - **D210 Representation and Reporting**  --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/8171a118aa258a1b02830d81c0904d4e5739a2bc/projects/wgu_coursework/d210_data_representation_and_reporting/README.md" target="_blank">D210 Github</a>
   - <a href= "https://public.tableau.com/app/profile/andrew.mecchi/viz/WGUandKaggleTelecom_CustomerChurn_Mecchi_WGU_D210/Final" target="_blank">Tableau Dashboard</a>
-      - Note: Project was to be a dashboard only and completed on WGU's Labs on Demand
+      - Note: Project was to be a dashboard only and completed on WGU's Labs on Demand <br>
 
+- **D209 Data Mining I**  --- <a href="future-link-here" target="_blank">D209 Github</a>
+  - <a href= "https://colab.research.google.com/drive/1kG7ttunil_aijRfxp_pHYmRRD6bmaAzw?usp=drive_link" target="_blank">K-Nearest Neighbor Classifier</a>
+  - <a href= "future-link-here" target="_blank">Random Forest Regressor</a> <br>
