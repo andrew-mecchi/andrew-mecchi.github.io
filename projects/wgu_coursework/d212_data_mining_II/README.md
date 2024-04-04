@@ -23,7 +23,7 @@ Based on selected features, what clusters can be found using the k-means cluster
 ## **Task 2: Principal Component Analysis**
 
 ### **Summary** 
-The goal of this analysis is to successfully reduce the dimensionality of the WGU Telecom dataset. The results of an effective principal component analysis allows for subsequent analysis of the targeted principal components and will assist
+The goal of this analysis is to successfully reduce the dimensionality of the WGU Telecom dataset. The results of an effective principal component analysis allows for subsequent analysis of the targeted principal components and will assist with further assessment of customer habits which will lead to better, informed decision-making.
 
 ### **Research Question** 
 Can principal component analysis be used to identify important features that contribute to common characteristics of WGU Telecom subscribers?
