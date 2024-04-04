@@ -29,6 +29,6 @@
   - <a href= "https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/17b8256b1ccf2500c8a14ea9690b0e1a50d76d1e/projects/wgu_coursework/d211_advanced_data_acquisition/SQL_Code_D211.txt" target="_blank">SQL Code for Project</a><br>
        
 - **D210 Representation and Reporting**  --- <a href="future_link_here" target="_blank">Future D210 Github</a>
-  - <a href= "https://public.tableau.com/app/profile/andrew.mecchi/viz/WGUandKaggleTelecom_CustomerChurn_Mecchi_WGU_D210/Final" target="_blank">Tableau Public Story</a>
-      - Note: Project was to be a dashboard only and completed on WGU's Labs on Demand, therefore, the original dataset resides there and not available here. <br>
+  - <a href= "https://public.tableau.com/app/profile/andrew.mecchi/viz/WGUandKaggleTelecom_CustomerChurn_Mecchi_WGU_D210/Final" target="_blank">Tableau Dashboard</a>
+      - Note: Project was to be a dashboard only and completed on WGU's Labs on Demand
 
