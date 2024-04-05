@@ -34,4 +34,4 @@
 
 - **D209 Data Mining I**  --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/37bbd8728f6debbdd9f41d7824bcc43b55287d50/projects/wgu_coursework/d209_data_mining_I" target="_blank">D209 Github</a>
   - <a href= "https://colab.research.google.com/drive/1kG7ttunil_aijRfxp_pHYmRRD6bmaAzw?usp=drive_link" target="_blank">K-Nearest Neighbor Classifier</a>
-  - <a href= "future-link-here" target="_blank">Random Forest Regressor</a> <br>
+  - <a href= "https://colab.research.google.com/drive/1AdfVEsIFbs9xXS8rD-GqEtQe_7s1k0Q_?usp=drive_link" target="_blank">Random Forest Regressor</a> <br>
