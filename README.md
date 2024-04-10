@@ -35,3 +35,7 @@
 - **D209 Data Mining I**  --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/76797dc5333b2a9404af6f8a9e493d85850d5d0b/projects/wgu_coursework/d209_data_mining_I" target="_blank">D209 Github</a>
   - <a href= "https://colab.research.google.com/drive/1kG7ttunil_aijRfxp_pHYmRRD6bmaAzw?usp=drive_link" target="_blank">K-Nearest Neighbor Classifier</a>
   - <a href= "https://colab.research.google.com/drive/1AdfVEsIFbs9xXS8rD-GqEtQe_7s1k0Q_?usp=drive_link" target="_blank">Random Forest Regressor</a> <br>
+
+- **D208 Predictive Modeling**  --- <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/tree/507f628f3b26cd520397be7d8753cbbb538159d2/projects/wgu_coursework/d208_predictive_modeling" target="_blank">D208 Github</a>
+  - <a href= "https://colab.research.google.com/drive/1krcdthFQoiUmUUr2ADK6cEyH-JYYYOuB?usp=drive_link" target="_blank">Multiple Linear Regression</a>
+  - <a href= "https://colab.research.google.com/drive/1LMp-nLMxcSjm4D49aR3i5re7CqTLP0k4?usp=drive_link" target="_blank">Logistic Regression</a> <br>
