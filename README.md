@@ -10,7 +10,7 @@
 ## **Recent Projects**
 **More Projects to be added soon**
 <br><br>
-<a href="https://colab.research.google.com/drive/1ws7jReyP084rjvUHvqHhX6vmr69aVByP?usp=drive_link" target="_blank">Fake News Media Classification using TF-IDF</a>
+<a href="https://colab.research.google.com/drive/1GUssSeMrqlqb69IPYn3wtKnHhvosJ3Oe?usp=drive_link" target="_blank">Fake News Media Classification using TF-IDF</a>
 
 
 ## **WGU Coursework**
