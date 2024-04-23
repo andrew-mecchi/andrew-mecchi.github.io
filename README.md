@@ -1,5 +1,8 @@
 # **Data Analysis Portfolio**
+<a href="https://www.linkedin.com/in/andrewmecchi/" target="_blank">LinkedIn</a> <br>
+
 <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/assets/GitHub_Resume.pdf" target="_blank">Resumé/CV</a> <br>
+
 
 ## **Education**
 **M.S. Data Analytics**  -  Western Governors University  -  February 2024
