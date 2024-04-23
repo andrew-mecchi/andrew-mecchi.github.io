@@ -1,5 +1,5 @@
 # **Data Analysis Portfolio**
-<a href="https://www.linkedin.com/in/andrewmecchi/" target="_blank">LinkedIn</a> <br>
+<a href="https://www.linkedin.com/in/andrewmecchi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;"></a>
 
 <a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/main/assets/GitHub_Resume.pdf" target="_blank">Resumé/CV</a> <br>
 
