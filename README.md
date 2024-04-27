@@ -11,6 +11,8 @@
 ## **Recent Projects**
 **More Projects to be added soon**
 <br><br>
+Heart Disease Analysis: <a href="https://public.tableau.com/app/profile/andrew.mecchi/viz/HeartDiseaseClassificationAnalysis_17139797629680/HeartDiseaseClassification" target="_blank">Tableau Story</a> | <a href="https://colab.research.google.com/drive/1oJ6xrzwMJOTbC_pEO44WTZx0jb2khd_B?usp=drive_link" target="_blank">Python Notebook</a>
+
 <a href="https://public.tableau.com/app/profile/andrew.mecchi/viz/A-Maize-ingYieldProductions1960-2022/Story1" target="_blank">Tableau: Maize Yield Production 1960-2022</a>
 
 <a href="https://colab.research.google.com/drive/1GUssSeMrqlqb69IPYn3wtKnHhvosJ3Oe?usp=drive_link" target="_blank">Fake News Media Classification using TF-IDF</a>
