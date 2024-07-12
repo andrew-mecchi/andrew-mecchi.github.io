@@ -9,14 +9,13 @@
 
 
 ## **Recent Projects**
-<br>
 Breast Cancer Analysis: <a href="https://docs.google.com/presentation/d/1mY32AwmIpWTi2-X-wtIFJMuShxloBcXHd2TJtXEf4eQ/edit?usp=drive_link" target="_blank">Power Point Presentation</a> | <a href="https://colab.research.google.com/drive/1kzOcXf4l7pec791nRyCForsvs8CIZts1?usp=drive_link" target="_blank">Python Notebook</a>
-
+<br>
 Heart Disease Analysis: <a href="https://public.tableau.com/app/profile/andrew.mecchi/viz/HeartDiseaseClassificationAnalysis_17139797629680/HeartDiseaseClassification" target="_blank">Tableau Story</a> | <a href="https://colab.research.google.com/drive/1oJ6xrzwMJOTbC_pEO44WTZx0jb2khd_B?usp=drive_link" target="_blank">Python Notebook</a>
-
-<a href="https://public.tableau.com/app/profile/andrew.mecchi/viz/A-Maize-ingYieldProductions1960-2022/Story1" target="_blank">Tableau: Maize Yield Production 1960-2022</a>
-
-<a href="https://colab.research.google.com/drive/1GUssSeMrqlqb69IPYn3wtKnHhvosJ3Oe?usp=drive_link" target="_blank">Fake News Media Classification using TF-IDF</a>
+<br>
+Maize Yield Production 1960-2022: <a href="https://public.tableau.com/app/profile/andrew.mecchi/viz/A-Maize-ingYieldProductions1960-2022/Story1" target="_blank">Tableau Dashboard</a>
+<br>
+Fake News Media Classification using TF-IDF: <a href="https://colab.research.google.com/drive/1GUssSeMrqlqb69IPYn3wtKnHhvosJ3Oe?usp=drive_link" target="_blank">Python Notebook</a>
 
 
 ## **WGU Coursework**
