@@ -1,5 +1,5 @@
 # **Data Analysis Portfolio**
-<a href="https://www.linkedin.com/in/andrewmecchi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;"></a>&emsp;<a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/52565aaa06c5c129b0bb3e0ffdb1131aa708ea18/assets/Resume_GitHub.docx.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/9483/9483127.png" alt="Resume" style="width: 30px; height: 30px;"></a><br>
+<a href="https://www.linkedin.com/in/andrewmecchi/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;"></a>&emsp;<a href="https://github.com/andrew-mecchi/andrew-mecchi.github.io/blob/ff9ee2ed34ef0bd8c7edeb6f6932b09c8a97b607/assets/Resume_GitHub.docx.pdf" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/9483/9483127.png" alt="Resume" style="width: 30px; height: 30px;"></a><br>
 
 
 
